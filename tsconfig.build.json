@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./dist-tsc",
+        "declaration": true,
+        "target": "es2022",
+        "jsx": "react",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+    },
+}

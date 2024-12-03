@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "target": "es6",
+        "jsx": "react",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext"
+    }
+}
