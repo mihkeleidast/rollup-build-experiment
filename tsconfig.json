@@ -1,9 +1,12 @@
 {
     "compilerOptions": {
         "rootDir": "./src",
+        "outDir": "./dist",
+        "declaration": true,
         "target": "es6",
         "jsx": "react",
         "module": "NodeNext",
         "moduleResolution": "NodeNext"
-    }
+    },
+    "exlucde": ["node_modules", "dist"]
 }
