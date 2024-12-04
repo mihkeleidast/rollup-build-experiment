@@ -6,7 +6,7 @@
         "target": "es6",
         "jsx": "react",
         "module": "NodeNext",
-        "moduleResolution": "NodeNext"
+        "moduleResolution": "NodeNext",
     },
-    "exlucde": ["node_modules", "dist"]
+    "files": ["src/index.ts"]
 }
